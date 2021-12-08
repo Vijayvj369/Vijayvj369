@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vijayvj369
+- 👋 Hi, I’m @Vijay_Kumar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning ....
 - 💞️ I’m looking to collaborate on ...@Github
