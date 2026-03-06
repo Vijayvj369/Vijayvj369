@@ -1,15 +1,12 @@
-- 👋 Hi, I’m ✨@Vijay_Kumar✨
-- 💞️ I’m looking to collaborate on Improving my skills.
-- 📫 How to reach me?? > 
--  if (instagram😳 = https://www.instagram.com/vijay_.vj16/)
-{
-  System.out.println("u can join me on insta");
-} 
-  Else{
-  System.out.println("Join me on email");
-}
-- 📩 "Email" - mailbox.vj369@gmail.com
+## Vijay | UI/UX Designer
 
+Passionate UI/UX Designer with a Diploma in Computer Science, focused on creating intuitive and user-friendly digital products. I enjoy solving real user problems by designing simple, functional, and engaging interfaces.
+
+## Connect With Me
+
+Portfolio: https://actually-shop-5eb.notion.site/UI-UX-Designer-30f24cb7e4ef80a18e90f5d0d56cb70d?source=copy_link
+LinkedIn: https://www.linkedin.com/in/vijay-v-046701227/
+Behance: https://www.behance.net/e447105e
 <!---
 Vijayvj369/Vijayvj369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
