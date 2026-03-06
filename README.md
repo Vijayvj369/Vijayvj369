@@ -5,6 +5,7 @@ Passionate UI/UX Designer with a Diploma in Computer Science, focused on creatin
 ## Connect With Me
 
 Portfolio: https://actually-shop-5eb.notion.site/UI-UX-Designer-30f24cb7e4ef80a18e90f5d0d56cb70d?source=copy_link
+<br>
 LinkedIn: https://www.linkedin.com/in/vijay-v-046701227/
 Behance: https://www.behance.net/e447105e
 <!---
